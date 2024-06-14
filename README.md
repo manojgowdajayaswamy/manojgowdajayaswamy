@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @manojgowdajayaswamy
 - 👀 I’m interested in playing with data
-- 🌱 I’m currently learning Management Information Sciences
 - 📫 How to reach me manoj.jayaswamy@gmail.com 
 <!---
 manojgowdajayaswamy/manojgowdajayaswamy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
