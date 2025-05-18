@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @manojgowdajayaswamy
-- 👀 I’m interested in playing with data
+- 👋 Hi, I’m Manoj
 - 📫 How to reach me manoj.jayaswamy@gmail.com 
 <!---
 manojgowdajayaswamy/manojgowdajayaswamy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
